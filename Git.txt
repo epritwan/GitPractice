@@ -1,0 +1,11 @@
+download the git and open GIT bush
+
+cd "/c/Ekta Study material/gitPra"
+
+git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Ekta Study material\gitPra>git init
+Initialized empty Git repository in C:/Ekta Study material/gitPra/.git/
+
+git branch : to check branch
